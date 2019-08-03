@@ -1,343 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2ed0a81-7531-4feb-8363-3314d07b1d9c" name="Default Changelist" comment="Game 2048 &amp; Game of Fifteen init">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Kotlin_for_Java_Developers._Week_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/assignmentKey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/META-INF/Games-Task.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/BoardImplKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/Cell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/Direction$WhenMappings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/Direction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/board/SquareBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048$canMove$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048$hasWon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048HelperKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048Initializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/Game2048Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/game2048/RandomGame2048Initializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/gameOfFifteen/GameOfFifteenHelperKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/gameOfFifteen/GameOfFifteenInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/gameOfFifteen/GameOfFifteenKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/gameOfFifteen/RandomGameInitializer$initialPermutation$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/gameOfFifteen/RandomGameInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/Game2048Settings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/GameOfFifteenSettings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/GameSettings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/PlayGame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/PlayGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/PlayGame2048Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/PlayGameKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/java/main/games/ui/PlayGameOfFifteenKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/META-INF/Games-Task.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$asString$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$asString$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test02Filter$cells$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test03All$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test03All$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test04Any$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test04Any$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test05TheSameCell$cell1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test05TheSameCell$cell2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test06FindReturnsTheSameCell$first$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$test07FilterTheSameCell$cells$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$testAllAny$allNonZero$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard$testAllAny$anyZero$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestGameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestSquareBoard$test00AllCells$$inlined$compareBy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestSquareBoard$test00AllCells$$inlined$thenBy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestSquareBoard$test07AllCells$$inlined$compareBy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestSquareBoard$test07AllCells$$inlined$thenBy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/board/TestSquareBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/AbstractTestGameWithSmallNumbers$toTestBoard$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/AbstractTestGameWithSmallNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/AbstractTestGameWithSmallNumbersKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestAddingValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestBoard$mirror$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestBoard$toString$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestBoard$values$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048$Move.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048$TestGame2048Initializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048$asString$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048$asString$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048Helper$testMerge$result$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048Initializer$testNextValue$empty$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestGame2048Initializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn$testColumn$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn$testColumnReversed$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn$testNoMove$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn$testRow$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn$testRowReversed$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/game2048/TestMoveValuesInRowOrColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteen$Move.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteen$TestGameInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteen$asString$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteen$asString$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteenHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/classes/kotlin/test/games/gameOfFifteen/TestGameOfFifteenInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.board.TestGameBoard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.board.TestSquareBoard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestAddingValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestGame2048.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestGame2048Helper.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestGame2048Initializer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestMoveValues.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.game2048.TestMoveValuesInRowOrColumn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.gameOfFifteen.TestGameOfFifteen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.gameOfFifteen.TestGameOfFifteenHelper.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/classes/games.gameOfFifteen.TestGameOfFifteenInitializer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/packages/games.board.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/packages/games.game2048.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/reports/tests/test/packages/games.gameOfFifteen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.board.TestGameBoard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.board.TestSquareBoard.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestAddingValue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestGame2048.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestGame2048Helper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestGame2048Initializer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestMoveValues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.game2048.TestMoveValuesInRowOrColumn.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.gameOfFifteen.TestGameOfFifteen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.gameOfFifteen.TestGameOfFifteenHelper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/TEST-games.gameOfFifteen.TestGameOfFifteenInitializer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/partId" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/board/Board.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/board/BoardImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/game/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048Helper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048Initializer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteenHelper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteenInitializer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/ui/PlayGame.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/ui/PlayGame2048.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/src/games/ui/PlayGameOfFifteen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/board/TestGameBoard.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/board/TestSquareBoard.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/AbstractTestGameWithSmallNumbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestAddingValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestGame2048.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestGame2048Helper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestGame2048Initializer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestMoveValues.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/game2048/TestMoveValuesInRowOrColumn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/gameOfFifteen/TestGameOfFifteen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/gameOfFifteen/TestGameOfFifteenHelper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Games/Task/test/games/gameOfFifteen/TestGameOfFifteenInitializer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="c2ed0a81-7531-4feb-8363-3314d07b1d9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -653,6 +318,21 @@
       <option name="presentableId" value="Default" />
       <updated>1564821625465</updated>
     </task>
+    <task id="LOCAL-00001" summary="Game 2048 &amp; Game of Fifteen init">
+      <created>1564840331233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564840331233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1564840549390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564840549390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -665,6 +345,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -699,7 +380,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Game 2048 &amp; Game of Fifteen init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Game 2048 &amp; Game of Fifteen init" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048.kt">
