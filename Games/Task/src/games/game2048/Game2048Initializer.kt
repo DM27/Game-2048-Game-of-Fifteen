@@ -2,6 +2,7 @@ package games.game2048
 
 import board.Cell
 import board.GameBoard
+import java.util.*
 import kotlin.random.Random
 
 interface Game2048Initializer<T> {
@@ -22,7 +23,8 @@ object RandomGame2048Initializer: Game2048Initializer<Int> {
      * Use the 'generateRandomStartValue' function above.
      * If the board is full return null.
      */
-    override fun nextValue(board: GameBoard<Int?>): Pair<Cell, Int>? {
-        TODO()
-    }
+    override fun nextValue(board: GameBoard<Int?>): Pair<Cell, Int>? = board
+            .filter { it == null }
+            .ifEmpty { return null }
+            .random() to generateRandomStartValue()
 }
