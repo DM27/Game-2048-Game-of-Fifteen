@@ -40,11 +40,9 @@ class Game2048(private val initializer: Game2048Initializer<Int>) : Game {
 /*
  * Add a new value produced by 'initializer' to a specified cell in a board.
  */
-fun GameBoard<Int?>.addNewValue(initializer: Game2048Initializer<Int>) {
-    initializer
-            .nextValue(this)
-            ?.let { this.set(it.first, it.second) }
-}
+fun GameBoard<Int?>.addNewValue(initializer: Game2048Initializer<Int>) = initializer
+        .nextValue(this)
+        ?.let { this.set(it.first, it.second) }
 
 /*
  * Update the values stored in a board,
@@ -63,7 +61,7 @@ fun GameBoard<Int?>.moveValuesInRowOrColumn(rowOrColumn: List<Cell>): Boolean {
         set(cell, newValues.getOrNull(index))
     }
 
-    return newValues.size > 0 && newValues.size < rowOrColumn.size
+    return newValues.isNotEmpty() && newValues.size < rowOrColumn.size
 }
 
 /*

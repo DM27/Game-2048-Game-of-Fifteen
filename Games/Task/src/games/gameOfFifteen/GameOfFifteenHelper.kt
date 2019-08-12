@@ -11,5 +11,12 @@ package games.gameOfFifteen
  * Thus the initial permutation should be correct.
  */
 fun isEven(permutation: List<Int>): Boolean {
-    TODO()
+    return permutation.mapIndexed { index, value ->
+        countLess(permutation, index, value)
+    }.sum() % 2 == 0
 }
+
+fun countLess(permutation: List<Int>, index: Int, value: Int): Int = permutation
+        .asSequence()
+        .drop(index)
+        .count { it < value}
